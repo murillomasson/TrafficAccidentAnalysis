@@ -1,0 +1,9 @@
+boto3==1.26.142
+geopandas==0.13.0
+matplotlib
+pandas==1.5.3
+pyspark==3.4.0
+requests
+shapely==2.0.1
+locale
+python-dotenv
