@@ -38,4 +38,15 @@ The script generates a CSV file after execution, which can be further analyzed u
 The data used in this project is provided by https://dadosabertos.poa.br. The reliability of the data is the responsibility of the source. You can explore other endpoints available on their website.
 The data cleaning and analysis performed in this project correspond to the data provided until May 29th. It may be necessary to execute additional functions to extract more up-to-date data in the future.
 
+## Future Work
+- Improve the response time of the map in Tableau
+
+To check and interact with the map, please access (please let me know if the website is down):
+https://public.tableau.com/app/profile/murillo.masson/viz/TrafficAccidentPoAMap/histria?publish=yes
+
 Feel free to explore the code and customize it according to your needs. Happy analyzing!
+
+## Tableau's view
+<div class='tableauPlaceholder' id='viz1685554264092' style='position: relative'><noscript><a href='#'><img alt='acidentes de trânsito ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TrafficAccidentPoAMap&#47;histria&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TrafficAccidentPoAMap&#47;histria' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TrafficAccidentPoAMap&#47;histria&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='pt-BR' /><param name='filter' value='publish=yes' /></object></div>
+
+<div class='tableauPlaceholder' id='viz1685554301694' style='position: relative'><noscript><a href='#'><img alt='acidentes de trânsito ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YX&#47;YXZ76MXZP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;YXZ76MXZP' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YX&#47;YXZ76MXZP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='pt-BR' /><param name='filter' value='publish=yes' /></object></div>                
