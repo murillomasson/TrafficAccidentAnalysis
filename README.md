@@ -11,7 +11,7 @@ The Main file performs the following functions:
 
 The Tests file:
 
-- Connects to the sharpfile.
+- Connects to the shapefile.
 - Reads it into a Pandas dataframe.
 - Executes column comparisons to enable proper address cleaning for joining with the traffic accident table.
 - Performs some preliminary analysis and tests to enhance understanding of the dataset.
